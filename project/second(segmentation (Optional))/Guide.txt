@@ -1,0 +1,10 @@
+First split it
+Change the config locations
+Use masks program
+Delete the images of annotation and replace with txt annotation
+Follow the correct direction
+Train it
+predict 
+as for tthe results will be saved in runs file as it is yolov8
+
+ 

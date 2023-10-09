@@ -1,0 +1,6 @@
+path: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\forseccode
+train: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\forseccode\images
+val: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\forseccode\images\val 
+
+nc: 1
+names: ['bleeding']

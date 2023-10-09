@@ -1,0 +1,7 @@
+path: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\for3code # dataset root dir
+train: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\for3code\images\train  # train images (relative to 'path')
+val: C:\Users\phili\Downloads\WCEBleedGen\WCEBleedGen\for3code\images\val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: bleeding region

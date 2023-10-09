@@ -1,0 +1,4 @@
+First run split
+Change the config locaations
+train it
+predict it
